@@ -23,7 +23,7 @@ EstimatedSalary — предполагаемая зарплата<br/>
 <div class="toc"><ul class="toc-item"><li><span><span class="toc-item-num">1&nbsp;&nbsp;</span>Подготовка данных</span><ul class="toc-item"><li><span><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Описание данных</span></li><li><span><span class="toc-item-num">1.2&nbsp;&nbsp;</span>Заполнение пропусков</span></li><li><span><span class="toc-item-num">1.3&nbsp;&nbsp;</span>Подготовка данных</span></li><li><span><span class="toc-item-num">1.4&nbsp;&nbsp;</span>Вывод</span></li></ul></li><li><span><span class="toc-item-num">2&nbsp;&nbsp;</span>Исследование задачи</span><ul class="toc-item"><li><span><span class="toc-item-num">2.1&nbsp;&nbsp;</span>Вывод</span></li></ul></li><li><span><span class="toc-item-num">3&nbsp;&nbsp;</span>Борьба с дисбалансом</span><ul class="toc-item"><li><span><span class="toc-item-num">3.1&nbsp;&nbsp;</span>Уменьшение выборки</span></li><li><span><span class="toc-item-num">3.2&nbsp;&nbsp;</span>Увеличение выборки</span></li><li><span><span class="toc-item-num">3.3&nbsp;&nbsp;</span>Изменение порога классификации</span></li><li><span><span class="toc-item-num">3.4&nbsp;&nbsp;</span>Вывод</span></li></ul></li><li><span><span class="toc-item-num">4&nbsp;&nbsp;</span>Тестирование модели</span><ul class="toc-item"><li><span><span class="toc-item-num">4.1&nbsp;&nbsp;</span>Вывод</span></li></ul></div>
 
 ## Рассматриваемые модели
-RandomForestClassifier, LogisticRegression, DecisionTreeClassifier
+RandomForestClassifier, LogisticRegression
 
 ## Результаты
 
